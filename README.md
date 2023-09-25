@@ -1,2 +1,2 @@
-
-Creating my personal one-page-app profile 
+#Kimaru profile
+Creating a personal one-page-app profile
