@@ -6,10 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1> This is my first time using vim and git<h1>
-	<div>
-	  <p>This is another paragraph<p>
-	  <p>This is the second paragraph<p>
-	 <div>
+      <p>This is the fifth paragraph from local machine<p>
     </div>
   );
 }
