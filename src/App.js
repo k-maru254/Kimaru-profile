@@ -8,7 +8,8 @@ function App() {
       <h1> This is my first time using vim and git<h1>
 	<div>
 	  <p>This is another paragraph<p>
-	<div>
+	  <p>This is the second paragraph<p>
+	 <div>
     </div>
   );
 }
