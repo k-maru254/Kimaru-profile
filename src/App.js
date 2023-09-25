@@ -9,6 +9,8 @@ function App() {
 	<div>
 	  <p>This is another paragraph<p>
 	  <p>This is the second paragraph<p>
+	  <p>This is the third paragraph added in GitHub<p>
+	  <p>This is the fourth paragraph added in GitHub<p>
 	 <div>
     </div>
   );
